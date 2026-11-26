@@ -1,0 +1,29 @@
+[
+  {
+    "id": "wc_ch1",
+    "title": "Warren Commission Report, Chapter 1: Summary and Conclusions",
+    "url": "https://www.archives.gov/research/jfk/warren-commission-report/chapter-1.html",
+    "fetched_at_utc": "2026-11-26T05:22:28+00:00",
+    "characters": 101013,
+    "words": 16566,
+    "sha256": "4328d732561bc6198c52844e29d718391436b283b55107a6e66d44c54ec1f7a0"
+  },
+  {
+    "id": "wc_ch6",
+    "title": "Warren Commission Report, Chapter 6: Investigation of Possible Conspiracy",
+    "url": "https://www.archives.gov/research/jfk/warren-commission-report/chapter-6.html",
+    "fetched_at_utc": "2026-11-26T05:22:32+00:00",
+    "characters": 345782,
+    "words": 57425,
+    "sha256": "fd40b9260ebd14b449c212c3d4b73d6dc9679ec5a3178c6aa7dc4233ce2f1f4f"
+  },
+  {
+    "id": "wc_app5",
+    "title": "Warren Commission Report, Appendix 5: List of Witnesses",
+    "url": "https://www.archives.gov/research/jfk/warren-commission-report/appendix5.html",
+    "fetched_at_utc": "2026-11-26T05:22:35+00:00",
+    "characters": 43511,
+    "words": 7738,
+    "sha256": "9e79be7f8a940393e3687d6500a3508ac32e1b1adaaf157c416162f25c5572cf"
+  }
+]
