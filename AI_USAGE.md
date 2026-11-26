@@ -4,3 +4,4 @@
 
 \- Local open-source models (to be listed with licenses as they are adopted).
 
+- GLiNER urchade/gliner_medium-v2.1 (Apache-2.0): named-entity extraction experiments.
