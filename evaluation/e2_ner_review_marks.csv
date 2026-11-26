@@ -1,0 +1,106 @@
+﻿chunk_id,span,label,score,correct
+wc_ch6-0003,The Commission,organization,0.898,1
+wc_ch6-0003,Oswald,person,0.956,1
+wc_ch6-0003,assassination,event,0.636,1
+wc_ch6-0003,President,person,0.763,1
+wc_ch6-0003,evidence,document,0.52,0
+wc_ch6-0003,United States,location,0.749,1
+wc_ch6-0003,evidence,document,0.505,0
+wc_ch6-0003,The Commission,organization,0.876,1
+wc_ch6-0003,evidence,document,0.609,0
+wc_ch6-0003,evidence,document,0.539,0
+wc_ch6-0012,Marina Oswald,person,0.927,1
+wc_ch6-0012,Mrs. Paine,person,0.727,1
+wc_ch6-0012,Mrs. Paine,person,0.892,1
+wc_ch6-0012,Texas School Book Depository,organization,0.892,1
+wc_ch6-0012,Superintendent Roy Truly,person,0.869,1
+wc_ch6-0012,Dallas,location,0.831,1
+wc_ch6-0012,Mrs. Paine,person,0.862,1
+wc_ch6-0012,Texas School Book Depository,organization,0.824,1
+wc_ch6-0013,Texas Employment Commission,government agency,0.881,1
+wc_ch6-0013,Oswald,person,0.981,1
+wc_ch6-0013,Oswald,person,0.98,1
+wc_ch6-0013,"October 16, 1963",date,0.982,1
+wc_ch6-0013,records,document,0.704,0
+wc_ch6-0013,Oswald,person,0.985,1
+wc_ch6-0013,Oswald,person,0.981,1
+wc_ch6-0015,chapter IV,document,0.612,1
+wc_ch6-0015,Commission,organization,0.694,1
+wc_ch6-0015,Lee Harvey Oswald,person,0.983,1
+wc_ch6-0015,Depository Building,location,0.84,1
+wc_ch6-0015,"November 22, 1963",date,0.953,1
+wc_ch6-0015,Buell Wesley Frazier,person,0.929,1
+wc_ch6-0015,Irving and Dallas,location,0.704,0
+wc_ch6-0015,Linnie May Randle,person,0.861,1
+wc_ch6-0015,Ruth Paine,person,0.897,1
+wc_ch6-0016,Oswald,person,0.703,1
+wc_ch6-0016,Frazier,person,0.756,1
+wc_ch6-0016,Oswald,person,0.687,1
+wc_ch6-0016,Irving,location,0.87,1
+wc_ch6-0016,Oswald,person,0.829,1
+wc_ch6-0016,Irving,location,0.907,1
+wc_ch6-0016,Thursday,date,0.799,1
+wc_ch6-0016,November 21,date,0.928,1
+wc_ch6-0016,Oswald,person,0.768,1
+wc_ch6-0016,Dallas,location,0.796,1
+wc_ch6-0016,Irving,location,0.88,1
+wc_ch6-0016,Depository,location,0.595,1
+wc_ch6-0016,Ruth Paine,person,0.874,1
+wc_ch6-0016,Marina Oswald,person,0.94,1
+wc_ch6-0016,Oswald,person,0.662,1
+wc_ch6-0016,Thursday,date,0.621,1
+wc_ch6-0016,Dallas,location,0.752,1
+wc_ch6-0044,Soviet Union,location,0.669,1
+wc_ch6-0044,Soviet Union,location,0.74,1
+wc_ch6-0044,major powers,organization,0.678,0
+wc_ch6-0044,nuclear powers,organization,0.58,0
+wc_ch6-0047,Japan,location,0.812,1
+wc_ch6-0047,August 1957,date,0.781,1
+wc_ch6-0047,November 1958,date,0.756,1
+wc_ch6-0047,Moscow,location,0.917,1
+wc_ch6-0047,October 1959,date,0.899,1
+wc_ch6-0047,George De Mohrenschildt,person,0.876,1
+wc_ch6-0047,Oswald,person,0.635,1
+wc_ch6-0047,Soviet Union,location,0.539,1
+wc_ch6-0047,Oswald,person,0.599,1
+wc_ch6-0047,Communists,organization,0.568,0
+wc_ch6-0047,Japan,location,0.758,1
+wc_ch6-0047,Oswald,person,0.745,1
+wc_ch6-0047,Moscow,location,0.835,1
+wc_ch6-0047,1962,date,0.524,1
+wc_ch6-0047,Soviet Union,location,0.512,1
+wc_ch6-0052,The Commission,government agency,0.675,1
+wc_ch6-0052,Oswald,person,0.986,1
+wc_ch6-0052,visa,document,0.704,0
+wc_ch6-0052,Soviet Union,location,0.677,1
+wc_ch6-0052,Oswald,person,0.987,1
+wc_ch6-0052,New Orleans,location,0.773,1
+wc_ch6-0052,Europe,location,0.775,1
+wc_ch6-0052,"September 20, 1959",date,0.977,1
+wc_ch6-0052,Marine Corps,organization,0.529,1
+wc_ch6-0057,Oswald,person,0.987,1
+wc_ch6-0057,Historic Diary,document,0.869,1
+wc_ch6-0057,"October 16, 1959",date,0.984,1
+wc_ch6-0057,Oswald,person,0.986,1
+wc_ch6-0057,Moscow,location,0.968,1
+wc_ch6-0057,Commission,government agency,0.762,1
+wc_ch6-0057,Oswald,person,0.982,1
+wc_ch6-0057,Soviet Union,location,0.806,1
+wc_ch6-0071,Oswald,person,0.971,1
+wc_ch6-0071,Snyder,person,0.731,1
+wc_ch6-0071,November 3,date,0.964,1
+wc_ch6-0071,section 349 (a),document,0.587,1
+wc_ch6-0071,Immigration and Nationality Act,document,0.886,1
+wc_ch6-0071,Oswald,person,0.966,1
+wc_ch6-0071,Oswald,person,0.964,1
+wc_ch6-0071,Embassy,location,0.784,1
+wc_ch6-0071,Oswald,person,0.969,1
+wc_ch6-0071,Soviet official,person,0.598,0
+wc_ch6-0071,Soviet Government,organization,0.816,1
+wc_ch6-0012,(missed),,,m
+wc_ch6-0013,(missed),,,m
+wc_ch6-0016,(missed),,,m
+wc_ch6-0016,(missed),,,m
+wc_ch6-0047,(missed),,,m
+wc_ch6-0047,(missed),,,m
+wc_ch6-0047,(missed),,,m
