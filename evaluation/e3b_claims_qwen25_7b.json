@@ -1,0 +1,2102 @@
+[
+  {
+    "chunk_id": "wc_ch6-0024",
+    "subject": "Charles Givens",
+    "predicate": "saw walking away from",
+    "object": "Oswald",
+    "evidence": "\"He saw Oswald walking away from the southeast corner, but saw no one else on the sixth floor at that time.\"",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": false,
+      "grounded": false
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": true,
+      "linked_to_evidence": true,
+      "grounded": true
+    },
+    "attribution_ok": true,
+    "stance": "narrative"
+  },
+  {
+    "chunk_id": "wc_ch6-0024",
+    "subject": "Charles Givens",
+    "predicate": "returned to",
+    "object": "sixth floor to get his jacket and cigarettes",
+    "evidence": "\"He saw Oswald walking away from the southeast corner, but saw no one else on the sixth floor at that time. He then took one of the elevators back to the first floor at approximately 11:55 a.m. \"",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": false,
+      "grounded": false
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": true,
+      "linked_to_evidence": false,
+      "grounded": false
+    },
+    "attribution_ok": true,
+    "stance": "narrative"
+  },
+  {
+    "chunk_id": "wc_ch6-0024",
+    "subject": "two Depository employees",
+    "predicate": "known to have been present",
+    "object": "briefly on the sixth floor",
+    "evidence": "\"two Depository employees are known to have been present briefly on the sixth floor during the period between 11:45 a.m., when the floor-laying crew stopped for lunch, and the moment of the assassination. \"",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": true,
+      "linked_to_evidence": true,
+      "grounded": true
+    },
+    "attribution_ok": true,
+    "stance": "narrative"
+  },
+  {
+    "chunk_id": "wc_ch6-0029",
+    "subject": "Rowland",
+    "predicate": "made false statements about",
+    "object": "matters about which he would not normally be expected to be mistaken",
+    "evidence": "\"The investigation showed that numerous statements by Rowland concerning matters about which he would not normally be expected to be mistaken--such as subjects he studied in school, grades he received, whether or not he had graduated from high school, and whether or not he had been admitted to college--were false.\"",
+    "attributed_to": "The Commission",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": true,
+      "linked_to_evidence": true,
+      "grounded": true
+    },
+    "attribution_ok": true,
+    "stance": "attributed"
+  },
+  {
+    "chunk_id": "wc_ch6-0029",
+    "subject": "Mrs. Rowland",
+    "predicate": "testified that",
+    "object": "her husband never told her about seeing any other man on the sixth floor except the man with the rifle in the southwest corner",
+    "evidence": "\"Mrs. Rowland testified that her husband never told her about seeing any other man on the sixth floor except the man with the rifle in the southwest corner that he first saw.\"",
+    "attributed_to": "Mrs. Rowland",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": true,
+      "linked_to_evidence": true,
+      "grounded": true
+    },
+    "attribution_ok": true,
+    "stance": "attributed"
+  },
+  {
+    "chunk_id": "wc_ch6-0029",
+    "subject": "Mrs. Rowland",
+    "predicate": "said that",
+    "object": "\"At times my husband is prone to exaggerate\"",
+    "evidence": "\"She also said that 'At times my husband is prone to exaggerate.'\"",
+    "attributed_to": "Mrs. Rowland",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": true,
+      "linked_to_evidence": true,
+      "grounded": true
+    },
+    "attribution_ok": true,
+    "stance": "attributed"
+  },
+  {
+    "chunk_id": "wc_ch6-0029",
+    "subject": "Rowland",
+    "predicate": "was present during interview with",
+    "object": "representatives of the FBI",
+    "evidence": "\"She also was present during Rowland's interview with representatives of the FBI\"",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": true,
+      "linked_to_evidence": true,
+      "grounded": true
+    },
+    "attribution_ok": true,
+    "stance": "narrative"
+  },
+  {
+    "chunk_id": "wc_ch6-0036",
+    "subject": "Deputy Sheriff Roger Craig",
+    "predicate": "saw someone leave",
+    "object": "not Lee Harvey Oswald",
+    "evidence": "the person he saw was not Lee Harvey Oswald, who was far removed from the building at that time.",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": false,
+      "grounded": false
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": true,
+      "linked_to_evidence": true,
+      "grounded": true
+    },
+    "attribution_ok": true,
+    "stance": "narrative"
+  },
+  {
+    "chunk_id": "wc_ch6-0036",
+    "subject": "Earlene Roberts",
+    "predicate": "testified about",
+    "object": "accomplices aiding Oswald",
+    "evidence": "the possibility that accomplices aided Oswald in connection with his escape was suggested by the testimony of Earlene Roberts.",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": false,
+      "linked_to_evidence": true,
+      "grounded": false
+    },
+    "attribution_ok": true,
+    "stance": "hedged"
+  },
+  {
+    "chunk_id": "wc_ch6-0036",
+    "subject": "James R. Worrell Jr.",
+    "predicate": "claims to have seen",
+    "object": "a man running from the rear of the building",
+    "evidence": "One witness, James R. Worrell Jr., claims to have seen a man running from the rear of the building shortly after the assassination, but in testimony before the Commission he stated that he could not see his face.",
+    "attributed_to": "Commission",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": true,
+      "linked_to_evidence": true,
+      "grounded": true
+    },
+    "attribution_ok": true,
+    "stance": "hedged"
+  },
+  {
+    "chunk_id": "wc_ch6-0036",
+    "subject": "two other witnesses",
+    "predicate": "saw no one leave",
+    "object": "the rear of the building during the first 5 minutes after the shooting",
+    "evidence": "Two other witnesses who watched the rear of the building during the first 5 minutes after the shooting saw no one leave.",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": true,
+      "linked_to_evidence": true,
+      "grounded": true
+    },
+    "attribution_ok": true,
+    "stance": "narrative"
+  },
+  {
+    "chunk_id": "wc_ch6-0042",
+    "subject": "Lee Harvey Oswald",
+    "predicate": "was committed to",
+    "object": "Marxist ideology",
+    "evidence": "\"Lee Harvey Oswald was openly committed to Marxist ideology\"",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": true,
+      "linked_to_evidence": true,
+      "grounded": true
+    },
+    "attribution_ok": true,
+    "stance": "narrative"
+  },
+  {
+    "chunk_id": "wc_ch6-0042",
+    "subject": "Lee Harvey Oswald",
+    "predicate": "defected to",
+    "object": "Soviet Union",
+    "evidence": "\"Lee Harvey Oswald was openly committed to Marxist ideology, he defected to the Soviet Union in 1959\"",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": true,
+      "linked_to_evidence": true,
+      "grounded": true
+    },
+    "attribution_ok": true,
+    "stance": "narrative"
+  },
+  {
+    "chunk_id": "wc_ch6-0042",
+    "subject": "Lee Harvey Oswald",
+    "predicate": "resided in",
+    "object": "Soviet Union",
+    "evidence": "\"Lee Harvey Oswald was openly committed to Marxist ideology, he defected to the Soviet Union in 1959, and resided there until June of 1962\"",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": true,
+      "linked_to_evidence": true,
+      "grounded": true
+    },
+    "attribution_ok": true,
+    "stance": "narrative"
+  },
+  {
+    "chunk_id": "wc_ch6-0042",
+    "subject": "Commission",
+    "predicate": "investigated",
+    "object": "facts surrounding Oswald's stay in Russia",
+    "evidence": "\"In order to evaluate rumors and speculations that Oswald may have been an agent of the Soviet Union, the Commission investigated the facts surrounding Oswald's stay in Russia\"",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": false,
+      "subject_in_text": true,
+      "object_in_text": true,
+      "linked_to_evidence": true,
+      "grounded": false
+    },
+    "attribution_ok": true,
+    "stance": "hedged"
+  },
+  {
+    "chunk_id": "wc_ch6-0042",
+    "subject": "Secretary of State",
+    "predicate": "testified before the Commission",
+    "object": "June 10, 1964",
+    "evidence": "\"On this question, the Secretary of State testified before the Commission on June 10, 1964\"",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": true,
+      "linked_to_evidence": true,
+      "grounded": true
+    },
+    "attribution_ok": true,
+    "stance": "attributed"
+  },
+  {
+    "chunk_id": "wc_ch6-0044",
+    "subject": "great powers",
+    "predicate": "have to deal with each other",
+    "object": "to try to meet problems with each other",
+    "evidence": "that great states and particularly nuclear powers have to be in a position to deal with each other, to transact business with each other, to try to meet problems with each other, and that requires the maintenance of correct relations and access to the leadership on all sides.",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": true,
+      "linked_to_evidence": true,
+      "grounded": true
+    },
+    "attribution_ok": true,
+    "stance": "narrative"
+  },
+  {
+    "chunk_id": "wc_ch6-0044",
+    "subject": "great powers",
+    "predicate": "have to maintain correct relations",
+    "object": "and access to the leadership on all sides",
+    "evidence": "that great states and particularly nuclear powers have to be in a position to deal with each other, to transact business with each other, to try to meet problems with each other, and that requires the maintenance of correct relations and access to the leadership on all sides.",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": true,
+      "linked_to_evidence": true,
+      "grounded": true
+    },
+    "attribution_ok": true,
+    "stance": "narrative"
+  },
+  {
+    "chunk_id": "wc_ch6-0051",
+    "subject": "Oswald",
+    "predicate": "was not recruited",
+    "object": "by Soviet agents in the Far East with a view toward defection and eventual return to the United States",
+    "evidence": "Thus, the limited evidence provides no indication that Oswald was recruited by Soviet agents in the Far East with a view toward defection and eventual return to the United States.",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": true,
+      "linked_to_evidence": true,
+      "grounded": true
+    },
+    "attribution_ok": true,
+    "stance": "hedged"
+  },
+  {
+    "chunk_id": "wc_ch6-0051",
+    "subject": "Oswald",
+    "predicate": "defection eliminated possibility",
+    "object": "of gaining access to confidential information or programs of the United States",
+    "evidence": "his defection and the disloyal statements he made publicly in connection with it eliminated the possibility that he would ever gain access to confidential information or programs of the United States.",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": false,
+      "linked_to_evidence": false,
+      "grounded": false
+    },
+    "attribution_ok": true,
+    "stance": "narrative"
+  },
+  {
+    "chunk_id": "wc_ch6-0054",
+    "subject": "Department of State",
+    "predicate": "reported",
+    "object": "usually took an American tourist in Helsinki I to 2 weeks to obtain a visa in 1959",
+    "evidence": "\"The Department of State has advised the Commission that it has some information that in 1959 it usually took an American tourist in Helsinki I to 2 weeks to obtain a visa,125\"",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": false,
+      "subject_in_text": true,
+      "object_in_text": false,
+      "linked_to_evidence": true,
+      "grounded": false
+    },
+    "attribution_ok": true,
+    "stance": "attributed"
+  },
+  {
+    "chunk_id": "wc_ch6-0054",
+    "subject": "Department of State",
+    "predicate": "reported",
+    "object": "normal waiting period during the past 5 years has been a week or less",
+    "evidence": "\"and that it has other information that the normal waiting period during the past 5 years has been a week or less.126\"",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": false,
+      "subject_in_text": true,
+      "object_in_text": true,
+      "linked_to_evidence": true,
+      "grounded": false
+    },
+    "attribution_ok": true,
+    "stance": "narrative"
+  },
+  {
+    "chunk_id": "wc_ch6-0054",
+    "subject": "Department of State",
+    "predicate": "reported",
+    "object": "waiting period has always varied frequently and widely",
+    "evidence": "\"According to the Department's information, the waiting period has always varied frequently and widely, with one confirmed instance in 1963 of a visa routinely issued in less than 24 hours.127\"",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": false,
+      "subject_in_text": true,
+      "object_in_text": true,
+      "linked_to_evidence": true,
+      "grounded": false
+    },
+    "attribution_ok": true,
+    "stance": "narrative"
+  },
+  {
+    "chunk_id": "wc_ch6-0054",
+    "subject": "Department of State",
+    "predicate": "reported",
+    "object": "one confirmed instance in 1963 of a visa routinely issued in less than 24 hours",
+    "evidence": "\"with one confirmed instance in 1963 of a visa routinely issued in less than 24 hours.127\"",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": false,
+      "subject_in_text": true,
+      "object_in_text": true,
+      "linked_to_evidence": true,
+      "grounded": false
+    },
+    "attribution_ok": true,
+    "stance": "narrative"
+  },
+  {
+    "chunk_id": "wc_ch6-0054",
+    "subject": "Central Intelligence Agency",
+    "predicate": "indicated",
+    "object": "visas during the 1964 tourist season were being granted in about 5 to 7 days",
+    "evidence": "\"The Central Intelligence Agency has indicated that visas during the 1964 tourist season were being granted in about 5 to 7 days.128\"",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": false,
+      "subject_in_text": true,
+      "object_in_text": true,
+      "linked_to_evidence": true,
+      "grounded": false
+    },
+    "attribution_ok": true,
+    "stance": "attributed"
+  },
+  {
+    "chunk_id": "wc_ch6-0056",
+    "subject": "Oswald",
+    "predicate": "left Moscow for Minsk",
+    "object": "two months and 22 days after arrival",
+    "evidence": "\"Two months and 22 days elapsed from Oswald's arrival in Moscow until he left that city to take up residence in Minsk.\"",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": false,
+      "linked_to_evidence": true,
+      "grounded": false
+    },
+    "attribution_ok": true,
+    "stance": "narrative"
+  },
+  {
+    "chunk_id": "wc_ch6-0056",
+    "subject": "Commission",
+    "predicate": "considered",
+    "object": "possibility of Oswald's early acceptance",
+    "evidence": "\"The Commission has considered the possibility that Oswald was accepted for residence in the Soviet Union and sent to Minsk unusually soon after he arrived, either because he had been expected or because during his first weeks in Moscow he developed an undercover relationship with the Soviet Government.\"",
+    "attributed_to": "The Commission",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": false,
+      "supported_by_quote": false,
+      "grounded": false
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": false,
+      "linked_to_evidence": true,
+      "grounded": false
+    },
+    "attribution_ok": true,
+    "stance": "attributed"
+  },
+  {
+    "chunk_id": "wc_ch6-0089",
+    "subject": "Oswald",
+    "predicate": "joined",
+    "object": "Byelorussian Society of Hunters and Fishermen in the summer of 1960",
+    "evidence": "Oswald apparently joined the Byelorussian Society of Hunters and Fishermen in the summer of 1960 236",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": true,
+      "linked_to_evidence": true,
+      "grounded": true
+    },
+    "attribution_ok": true,
+    "stance": "hedged"
+  },
+  {
+    "chunk_id": "wc_ch6-0089",
+    "subject": "Oswald",
+    "predicate": "kept",
+    "object": "his membership certificate and gun permit until the day he was killed",
+    "evidence": "and kept his membership certificate 241 and gun permit 242 until the day he was killed.",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": false,
+      "linked_to_evidence": false,
+      "grounded": false
+    },
+    "attribution_ok": true,
+    "stance": "narrative"
+  },
+  {
+    "chunk_id": "wc_ch6-0089",
+    "subject": "Oswald",
+    "predicate": "mentioned",
+    "object": "his membership in the hunting club to friends",
+    "evidence": "Oswald made no secret of his membership in the hunting club. He mentioned it on occasion to friends after he returned to the United States;",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": false,
+      "linked_to_evidence": true,
+      "grounded": false
+    },
+    "attribution_ok": true,
+    "stance": "narrative"
+  },
+  {
+    "chunk_id": "wc_ch6-0089",
+    "subject": "Oswald",
+    "predicate": "discussed",
+    "object": "his membership in the hunting club at a speech at a Jesuit Seminary in Mobile, Ala., in the summer of 1962",
+    "evidence": "discussed it at some length in a speech at a Jesuit Seminary in Mobile, Ala., in the summer of 1962;",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": false,
+      "grounded": false
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": false,
+      "linked_to_evidence": false,
+      "grounded": false
+    },
+    "attribution_ok": true,
+    "stance": "narrative"
+  },
+  {
+    "chunk_id": "wc_ch6-0089",
+    "subject": "Oswald",
+    "predicate": "included",
+    "object": "his membership in the hunting club in his correspondence with his brother Robert",
+    "evidence": "included it in his correspondence with his brother Robert;",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": false,
+      "grounded": false
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": false,
+      "linked_to_evidence": false,
+      "grounded": false
+    },
+    "attribution_ok": true,
+    "stance": "narrative"
+  },
+  {
+    "chunk_id": "wc_ch6-0089",
+    "subject": "CIA",
+    "predicate": "informed",
+    "object": "the Commission that it is in possession of considerable information on the location of secret Soviet training institutions and that it knows of no such institution in or near Minsk during the time Oswald was there",
+    "evidence": "the CIA has informed the Commission that it is in possession of considerable information on the location of secret Soviet training institutions and that it knows of no such institution in or near Minsk during the time Oswald was there. 243",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": true,
+      "linked_to_evidence": true,
+      "grounded": true
+    },
+    "attribution_ok": true,
+    "stance": "attributed"
+  },
+  {
+    "chunk_id": "wc_ch6-0125",
+    "subject": "Ruth Paine's trip",
+    "predicate": "was not",
+    "object": "to assist Oswald in his venture to Mexico City",
+    "evidence": "358 the Commission has considered whether Ruth Paine's trip to New Orleans was undertaken to assist Oswald in this venture, but the evidence is clear that it was not.",
+    "attributed_to": "the Commission",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": false,
+      "linked_to_evidence": true,
+      "grounded": false
+    },
+    "attribution_ok": true,
+    "stance": "attributed"
+  },
+  {
+    "chunk_id": "wc_ch6-0125",
+    "subject": "Marina Oswald",
+    "predicate": "confided",
+    "object": "she was having continuing difficulties with her husband",
+    "evidence": "In her letters to Ruth Paine during the summer of 1963, Marina Oswald confided that she was having continuing difficulties with her husband, and Mrs. Paine urged Marina Oswald to live with her in Irving;",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": true,
+      "linked_to_evidence": true,
+      "grounded": true
+    },
+    "attribution_ok": true,
+    "stance": "narrative"
+  },
+  {
+    "chunk_id": "wc_ch6-0125",
+    "subject": "Mrs. Paine",
+    "predicate": "urged",
+    "object": "Marina Oswald to live with her in Irving",
+    "evidence": "In her letters to Ruth Paine during the summer of 1963, Marina Oswald confided that she was having continuing difficulties with her husband, and Mrs. Paine urged Marina Oswald to live with her in Irving;",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": true,
+      "linked_to_evidence": true,
+      "grounded": true
+    },
+    "attribution_ok": true,
+    "stance": "narrative"
+  },
+  {
+    "chunk_id": "wc_ch6-0125",
+    "subject": "letters of Marina and Ruth Paine",
+    "predicate": "contain no mention",
+    "object": "that Oswald was planning a trip to Mexico City or elsewhere",
+    "evidence": "the letters of the two women prior to Mrs. Paine's arrival in New Orleans on September 20, 1963, however, contain no mention that Oswald was planning a trip to Mexico City or elsewhere.",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": false,
+      "object_in_text": true,
+      "linked_to_evidence": true,
+      "grounded": false
+    },
+    "attribution_ok": true,
+    "stance": "narrative"
+  },
+  {
+    "chunk_id": "wc_ch6-0125",
+    "subject": "Mrs. Paine",
+    "predicate": "was told by Oswald",
+    "object": "he planned to seek employment in Houston, or perhaps Philadelphia",
+    "evidence": "In New Orleans, Mrs. Paine was told by Oswald that he planned to seek employment in Houston, or perhaps Philadelphia.",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": true,
+      "linked_to_evidence": true,
+      "grounded": true
+    },
+    "attribution_ok": true,
+    "stance": "attributed"
+  },
+  {
+    "chunk_id": "wc_ch6-0141",
+    "subject": "Oswald",
+    "predicate": "informed",
+    "object": "the party that he had moved to Dallas",
+    "evidence": "\"In a letter postmarked November 1, Oswald informed the party that he had moved to Dallas,\"",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": true,
+      "linked_to_evidence": true,
+      "grounded": true
+    },
+    "attribution_ok": true,
+    "stance": "attributed"
+  },
+  {
+    "chunk_id": "wc_ch6-0141",
+    "subject": "Oswald",
+    "predicate": "reported his attendance at",
+    "object": "a meeting at which General Walker had spoken",
+    "evidence": "\"and reported his attendance at a meeting at which General Walker had spoken,\"",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": true,
+      "linked_to_evidence": true,
+      "grounded": true
+    },
+    "attribution_ok": true,
+    "stance": "attributed"
+  },
+  {
+    "chunk_id": "wc_ch6-0141",
+    "subject": "Oswald",
+    "predicate": "asked",
+    "object": "Johnson for the party's 'general view' of the American Civil Liberties Union",
+    "evidence": "\"and at a meeting of the American Civil Liberties Union; he asked Johnson for the party's 'general view' of the latter organization\"",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": false,
+      "linked_to_evidence": false,
+      "grounded": false
+    },
+    "attribution_ok": true,
+    "stance": "narrative"
+  },
+  {
+    "chunk_id": "wc_ch6-0141",
+    "subject": "Oswald",
+    "predicate": "wrote",
+    "object": "the Worker and the Hall-Davis Defense Committee",
+    "evidence": "\"At different times, Oswald also wrote the Worker and the Hall-Davis Defense Committee,\"",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": true,
+      "linked_to_evidence": true,
+      "grounded": true
+    },
+    "attribution_ok": true,
+    "stance": "narrative"
+  },
+  {
+    "chunk_id": "wc_ch6-0195",
+    "subject": "Fidel Castro",
+    "predicate": "made a slip of the tongue",
+    "object": "saying, 'The first time Oswald was in Cuba'",
+    "evidence": "\"The charge was made in a Cuban expatriate publication that in a speech he delivered 5 days after the assassination, while he was under the influence of liquor, Fidel Castro made a slip of the tongue and said, 'The first time Oswald was in Cuba.'\"",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": false,
+      "linked_to_evidence": true,
+      "grounded": false
+    },
+    "attribution_ok": true,
+    "stance": "hedged"
+  },
+  {
+    "chunk_id": "wc_ch6-0195",
+    "subject": "Oswald",
+    "predicate": "received money and orders",
+    "object": "to receive money and orders for the assassination",
+    "evidence": "\"Mexico City in early September to receive money and orders for the assassination\"",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": true,
+      "linked_to_evidence": true,
+      "grounded": true
+    },
+    "attribution_ok": true,
+    "stance": "narrative"
+  },
+  {
+    "chunk_id": "wc_ch6-0195",
+    "subject": "Oswald",
+    "predicate": "might have made contacts",
+    "object": "with a Communist from the United States",
+    "evidence": "\"that he had been flown to a secret airfield somewhere in or near the Yucatan Peninsula, that he might have made contacts in Mexico City with a Communist from the United States\"",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": true,
+      "linked_to_evidence": true,
+      "grounded": true
+    },
+    "attribution_ok": true,
+    "stance": "hedged"
+  },
+  {
+    "chunk_id": "wc_ch6-0195",
+    "subject": "Oswald",
+    "predicate": "assassinated",
+    "object": "the President",
+    "evidence": "\"and that Oswald assassinated the President at the direction of a particular Cuban agent\"",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": true,
+      "linked_to_evidence": true,
+      "grounded": true
+    },
+    "attribution_ok": true,
+    "stance": "narrative"
+  },
+  {
+    "chunk_id": "wc_ch6-0195",
+    "subject": "Cuban agent",
+    "predicate": "directed",
+    "object": "Oswald",
+    "evidence": "\"and that Oswald assassinated the President at the direction of a particular Cuban agent who met with him in the United States and paid him $7,000\"",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": true,
+      "linked_to_evidence": true,
+      "grounded": true
+    },
+    "attribution_ok": true,
+    "stance": "narrative"
+  },
+  {
+    "chunk_id": "wc_ch6-0195",
+    "subject": "Cuban expatriate publication",
+    "predicate": "alleged",
+    "object": "Oswald had made one or more surreptitious trips to Cuba",
+    "evidence": "\"The charge was made in a Cuban expatriate publication that in a speech he delivered 5 days after the assassination, while he was under the influence of liquor, Fidel Castro made a slip of the tongue and said, 'The first time Oswald was in Cuba.'\"",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": false,
+      "grounded": false
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": false,
+      "linked_to_evidence": true,
+      "grounded": false
+    },
+    "attribution_ok": true,
+    "stance": "hedged"
+  },
+  {
+    "chunk_id": "wc_ch6-0219",
+    "subject": "Oswald",
+    "predicate": "typed",
+    "object": "Lee, Harvey Oswald",
+    "evidence": "\"His tourist card was typed by the Mexican consulate in New Orleans, 'Lee, Harvey Oswald.'\"",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": true,
+      "linked_to_evidence": true,
+      "grounded": true
+    },
+    "attribution_ok": true,
+    "stance": "narrative"
+  },
+  {
+    "chunk_id": "wc_ch6-0219",
+    "subject": "Oswald",
+    "predicate": "signed",
+    "object": "Lee H. Oswald",
+    "evidence": "\"the application and the card itself, 'Lee H. Oswald.'\"",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": true,
+      "linked_to_evidence": true,
+      "grounded": true
+    },
+    "attribution_ok": true,
+    "stance": "narrative"
+  },
+  {
+    "chunk_id": "wc_ch6-0219",
+    "subject": "Oswald",
+    "predicate": "printed",
+    "object": "Lee H Oswald",
+    "evidence": "\"Oswald seems originally to have also printed his name, evenly spaced, as 'Lee H Oswald',\"",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": true,
+      "linked_to_evidence": true,
+      "grounded": true
+    },
+    "attribution_ok": true,
+    "stance": "hedged"
+  },
+  {
+    "chunk_id": "wc_ch6-0219",
+    "subject": "clerk",
+    "predicate": "typed",
+    "object": "Lee, Harvey Oswald",
+    "evidence": "\"The clerk who typed the card thus saw a space after 'Lee,' followed by 'Harvey Oswald' crowded together, and probably assumed that 'Lee' was the applicant's last name.\"",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": true,
+      "linked_to_evidence": true,
+      "grounded": true
+    },
+    "attribution_ok": true,
+    "stance": "hedged"
+  },
+  {
+    "chunk_id": "wc_ch6-0219",
+    "subject": "clerk",
+    "predicate": "wrote",
+    "object": "H. O. Lee",
+    "evidence": "\"The clerk who prepared Oswald's bus reservation for his return trip wrote 'H. O. Lee.'\"",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": true,
+      "linked_to_evidence": true,
+      "grounded": true
+    },
+    "attribution_ok": true,
+    "stance": "narrative"
+  },
+  {
+    "chunk_id": "wc_ch6-0235",
+    "subject": "Mrs. Hunter",
+    "predicate": "has",
+    "object": "a strange obsession for attempting to inject herself into any big event which comes to her attention",
+    "evidence": "\"has a strange obsession for attempting to inject herself into any big event which comes to her attention\"",
+    "attributed_to": "the friend",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": true,
+      "linked_to_evidence": true,
+      "grounded": true
+    },
+    "attribution_ok": true,
+    "stance": "attributed"
+  },
+  {
+    "chunk_id": "wc_ch6-0235",
+    "subject": "Mrs. Hunter",
+    "predicate": "is likely to claim",
+    "object": "some personal knowledge of any major crime which receives much publicity",
+    "evidence": "\"is likely to claim some personal knowledge of any major crime which receives much publicity\"",
+    "attributed_to": "the friend",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": true,
+      "linked_to_evidence": true,
+      "grounded": true
+    },
+    "attribution_ok": true,
+    "stance": "hedged"
+  },
+  {
+    "chunk_id": "wc_ch6-0235",
+    "subject": "the entire family",
+    "predicate": "is aware of",
+    "object": "these 'tall tales' Mrs. Hunter tells",
+    "evidence": "\"the entire family is aware of these 'tall tales' Mrs. Hunter tells\"",
+    "attributed_to": "654",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": true,
+      "linked_to_evidence": true,
+      "grounded": true
+    },
+    "attribution_ok": false,
+    "stance": "narrative"
+  },
+  {
+    "chunk_id": "wc_ch6-0249",
+    "subject": "Bogard",
+    "predicate": "stated",
+    "object": "the customer said he did not wish credit and wanted to purchase a car for cash",
+    "evidence": "\"He, Pizzo, and Wilson differed on important details of what is supposed to have occurred when the customer was in the showroom. Whereas Bogard stated that the customer said he did not wish credit and wanted to purchase a car for cash,699\"",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": false,
+      "subject_in_text": true,
+      "object_in_text": true,
+      "linked_to_evidence": true,
+      "grounded": false
+    },
+    "attribution_ok": true,
+    "stance": "attributed"
+  },
+  {
+    "chunk_id": "wc_ch6-0249",
+    "subject": "Pizzo and Wilson",
+    "predicate": "indicated",
+    "object": "the man did attempt to purchase on credit",
+    "evidence": "\"He, Pizzo, and Wilson differed on important details of what is supposed to have occurred when the customer was in the showroom. Whereas Bogard stated that the customer said he did not wish credit and wanted to purchase a car for cash,699 Pizzo and Wilson both indicated that the man did attempt to purchase on credit.700\"",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": false,
+      "subject_in_text": true,
+      "object_in_text": true,
+      "linked_to_evidence": true,
+      "grounded": false
+    },
+    "attribution_ok": true,
+    "stance": "attributed"
+  },
+  {
+    "chunk_id": "wc_ch6-0249",
+    "subject": "Wilson",
+    "predicate": "stated",
+    "object": "the man stated sarcastically, 'Maybe I'm going to have to go back to Russia to buy a car'",
+    "evidence": "\"According to Wilson, when the customer was told that he would be unable to purchase a car without a credit rating, substantial cash or a lengthy employment record, he stated sarcastically, 'Maybe I'm going to have to go back to Russia to buy a car.' 701\"",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": false,
+      "linked_to_evidence": true,
+      "grounded": false
+    },
+    "attribution_ok": true,
+    "stance": "attributed"
+  },
+  {
+    "chunk_id": "wc_ch6-0249",
+    "subject": "Bogard",
+    "predicate": "made no mention",
+    "object": "the customer ever spoke with Wilson while he was in the showroom",
+    "evidence": "\"While it is possible that Oswald would have made such a remark, the statement is not consistent with Bogard's story. Indeed, Bogard has made no mention that the customer ever spoke with Wilson while he was in the showroom.702\"",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": false,
+      "subject_in_text": true,
+      "object_in_text": true,
+      "linked_to_evidence": true,
+      "grounded": false
+    },
+    "attribution_ok": true,
+    "stance": "narrative"
+  },
+  {
+    "chunk_id": "wc_ch6-0249",
+    "subject": "search",
+    "predicate": "made",
+    "object": "through the showroom's refuse was made, but no paper bearing Oswald's name was found",
+    "evidence": "\"More important, on November 23, a search through the showroom's refuse was made, but no paper bearing Oswald's name was found.703\"",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": false,
+      "subject_in_text": true,
+      "object_in_text": true,
+      "linked_to_evidence": true,
+      "grounded": false
+    },
+    "attribution_ok": true,
+    "stance": "narrative"
+  },
+  {
+    "chunk_id": "wc_ch6-0249",
+    "subject": "paper",
+    "predicate": "has never been located",
+    "object": "on which Brown reportedly wrote Oswald's name",
+    "evidence": "\"The paper on which Brown reportedly wrote Oswald's name also has never been located.704\"",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": false,
+      "subject_in_text": true,
+      "object_in_text": true,
+      "linked_to_evidence": true,
+      "grounded": false
+    },
+    "attribution_ok": true,
+    "stance": "hedged"
+  },
+  {
+    "chunk_id": "wc_ch6-0257",
+    "subject": "Oswald",
+    "predicate": "traveled on",
+    "object": "Continental Trailways bus No. 5133",
+    "evidence": "His presence on this bus would be consistent with other evidence before the Commission.",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": false,
+      "grounded": false
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": true,
+      "linked_to_evidence": false,
+      "grounded": false
+    },
+    "attribution_ok": true,
+    "stance": "narrative"
+  },
+  {
+    "chunk_id": "wc_ch6-0257",
+    "subject": "ticket",
+    "predicate": "sold during",
+    "object": "the night shift on September 25-26",
+    "evidence": "Bus company records disclose that one ticket from Houston to Laredo was sold during the night shift on September 25-26, and that such ticket was the only one of its kind sold in the period of September 24 through September 26.",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": true,
+      "linked_to_evidence": true,
+      "grounded": true
+    },
+    "attribution_ok": true,
+    "stance": "narrative"
+  },
+  {
+    "chunk_id": "wc_ch6-0257",
+    "subject": "Oswald",
+    "predicate": "purchased",
+    "object": "the ticket",
+    "evidence": "The agent who sold this ticket has stated that Oswald could have been the purchaser.",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": false,
+      "linked_to_evidence": true,
+      "grounded": false
+    },
+    "attribution_ok": true,
+    "stance": "hedged"
+  },
+  {
+    "chunk_id": "wc_ch6-0257",
+    "subject": "Dr. and Mrs. John B. McFarland",
+    "predicate": "saw riding",
+    "object": "Oswald",
+    "evidence": "Two English passengers, Dr. and Mrs. John B. McFarland, testified that they saw Oswald riding alone on this bus shortly after they awoke at 6 a.m.",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": true,
+      "linked_to_evidence": true,
+      "grounded": true
+    },
+    "attribution_ok": true,
+    "stance": "attributed"
+  },
+  {
+    "chunk_id": "wc_ch6-0302",
+    "subject": "Ruby",
+    "predicate": "drove",
+    "object": "Larry Crafard to the Vegas Club",
+    "evidence": "\"At approximately 7:30 p.m., he drove Larry Crafard to the Vegas Club which Crafard was overseeing because Ruby's sister, Eva Grant, who normally managed the club, was convalescing from a recent illness.\"",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": true,
+      "linked_to_evidence": true,
+      "grounded": true
+    },
+    "attribution_ok": true,
+    "stance": "narrative"
+  },
+  {
+    "chunk_id": "wc_ch6-0302",
+    "subject": "Ruby",
+    "predicate": "conversed with",
+    "object": "Lawrence Meyers",
+    "evidence": "\"Thereafter, Ruby returned to the Carousel Club and conversed for about an hour with Lawrence Meyers, a Chicago businessman.\"",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": true,
+      "linked_to_evidence": true,
+      "grounded": true
+    },
+    "attribution_ok": true,
+    "stance": "narrative"
+  },
+  {
+    "chunk_id": "wc_ch6-0302",
+    "subject": "Ruby",
+    "predicate": "had dinner with",
+    "object": "Ralph Paul",
+    "evidence": "\"Between 9:45 and 10:45 p.m., Ruby had dinner with Ralph Paul, his close friend and financial backer.\"",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": true,
+      "linked_to_evidence": true,
+      "grounded": true
+    },
+    "attribution_ok": true,
+    "stance": "narrative"
+  },
+  {
+    "chunk_id": "wc_ch6-0302",
+    "subject": "Ruby",
+    "predicate": "spoke with",
+    "object": "Don Campbell",
+    "evidence": "\"While dining Ruby spoke briefly with a Dallas Morning News employee, Don Campbell, who suggested that they go to the Castaway Club, but Ruby declined.\"",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": true,
+      "linked_to_evidence": true,
+      "grounded": true
+    },
+    "attribution_ok": true,
+    "stance": "hedged"
+  },
+  {
+    "chunk_id": "wc_ch6-0302",
+    "subject": "Ruby",
+    "predicate": "acted as master of ceremonies for",
+    "object": "his show",
+    "evidence": "\"Thereafter, Ruby returned to the Carousel Club where he acted as master of ceremonies for his show and peacefully ejected an unruly patron.\"",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": true,
+      "linked_to_evidence": true,
+      "grounded": true
+    },
+    "attribution_ok": true,
+    "stance": "narrative"
+  },
+  {
+    "chunk_id": "wc_ch6-0302",
+    "subject": "Ruby",
+    "predicate": "rejoined",
+    "object": "Meyers at the Bon Vivant Room of the Dallas Cabana",
+    "evidence": "\"At about midnight Ruby rejoined Meyers at the Bon Vivant Room of the Dallas Cabana where they met Meyers' brother and sister-in-law.\"",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": true,
+      "linked_to_evidence": true,
+      "grounded": true
+    },
+    "attribution_ok": true,
+    "stance": "narrative"
+  },
+  {
+    "chunk_id": "wc_ch6-0318",
+    "subject": "Ruby",
+    "predicate": "mentioned",
+    "object": "sister's recent illness",
+    "evidence": "\"Ruby related that, after joining in the postservice refreshments, he drove by some night clubs, noticing whether or not they had been closed as his were.\"",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": false,
+      "grounded": false
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": true,
+      "linked_to_evidence": true,
+      "grounded": true
+    },
+    "attribution_ok": true,
+    "stance": "attributed"
+  },
+  {
+    "chunk_id": "wc_ch6-0318",
+    "subject": "Ruby",
+    "predicate": "noticed",
+    "object": "whether or not night clubs had been closed",
+    "evidence": "\"Ruby related that, after joining in the postservice refreshments, he drove by some night clubs, noticing whether or not they had been closed as his were.\"",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": false,
+      "linked_to_evidence": true,
+      "grounded": false
+    },
+    "attribution_ok": true,
+    "stance": "attributed"
+  },
+  {
+    "chunk_id": "wc_ch6-0347",
+    "subject": "Ruby",
+    "predicate": "stated the call was made from",
+    "object": "Eva Grant's apartment",
+    "evidence": "\"the call was made from her apartment about 4 p.m.\"",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": false,
+      "grounded": false
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": false,
+      "linked_to_evidence": false,
+      "grounded": false
+    },
+    "attribution_ok": true,
+    "stance": "narrative"
+  },
+  {
+    "chunk_id": "wc_ch6-0347",
+    "subject": "Ruby",
+    "predicate": "believed the call was made from",
+    "object": "Sol's Turf Bar",
+    "evidence": "\"however, believed it was made from the Turf Bar\"",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": false,
+      "grounded": false
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": true,
+      "linked_to_evidence": false,
+      "grounded": false
+    },
+    "attribution_ok": true,
+    "stance": "hedged"
+  },
+  {
+    "chunk_id": "wc_ch6-0347",
+    "subject": "Ruby",
+    "predicate": "stated he went to",
+    "object": "the Carousel",
+    "evidence": "\"He stated that from the Turf Bar he went to the Carousel\"",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": false,
+      "grounded": false
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": true,
+      "linked_to_evidence": true,
+      "grounded": true
+    },
+    "attribution_ok": true,
+    "stance": "attributed"
+  },
+  {
+    "chunk_id": "wc_ch6-0347",
+    "subject": "Ruby",
+    "predicate": "stated he went home from",
+    "object": "the Carousel",
+    "evidence": "\"and then home\"",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": false,
+      "grounded": false
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": true,
+      "linked_to_evidence": false,
+      "grounded": false
+    },
+    "attribution_ok": true,
+    "stance": "narrative"
+  },
+  {
+    "chunk_id": "wc_ch6-0347",
+    "subject": "Robert Larkin",
+    "predicate": "saw Ruby",
+    "object": "downtown at about 6 p.m.",
+    "evidence": "\"Robert Larkin saw him downtown at about 6 p.m.\"",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": true,
+      "linked_to_evidence": true,
+      "grounded": true
+    },
+    "attribution_ok": true,
+    "stance": "narrative"
+  },
+  {
+    "chunk_id": "wc_ch6-0347",
+    "subject": "Andrew Armstrong",
+    "predicate": "testified Ruby visited",
+    "object": "the Carousel Club between 6 and 7 p.m. and remained about an hour",
+    "evidence": "\"Andrew Armstrong testified that Ruby visited the Carousel Club between 6 and 7 p.m. and remained about an hour\"",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": true,
+      "linked_to_evidence": true,
+      "grounded": true
+    },
+    "attribution_ok": true,
+    "stance": "attributed"
+  },
+  {
+    "chunk_id": "wc_ch6-0387",
+    "subject": "Litchfield",
+    "predicate": "stated about his visit",
+    "object": "saw a man resembling Oswald enter Ruby's office and confer with Ruby",
+    "evidence": "\"Litchfield stated that during a visit to the Carousel Club in late October or early November 1963, he saw such a man enter Ruby's office, apparently confer with Ruby.\"",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": false,
+      "linked_to_evidence": true,
+      "grounded": false
+    },
+    "attribution_ok": true,
+    "stance": "hedged"
+  },
+  {
+    "chunk_id": "wc_ch6-0387",
+    "subject": "Litchfield",
+    "predicate": "had",
+    "object": "pockmarks on the right side of his chin",
+    "evidence": "\"Litchfield described the man he saw as having pockmarks on the right side of his chin;\"",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": true,
+      "linked_to_evidence": true,
+      "grounded": true
+    },
+    "attribution_ok": true,
+    "stance": "attributed"
+  },
+  {
+    "chunk_id": "wc_ch6-0387",
+    "subject": "Oswald",
+    "predicate": "did not have",
+    "object": "such identifying marks",
+    "evidence": "\"Oswald did not have such identifying marks.\"",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": true,
+      "linked_to_evidence": true,
+      "grounded": true
+    },
+    "attribution_ok": true,
+    "stance": "narrative"
+  },
+  {
+    "chunk_id": "wc_ch6-0387",
+    "subject": "Litchfield",
+    "predicate": "made no mention of his observation",
+    "object": "to public officials until December 2, 1963",
+    "evidence": "\"Although present at an FBI interview of another witness on November 29, Litchfield made no mention of his observation to public officials until December 2, 1963.\"",
+    "attributed_to": "",
+    "checks": {
+      "evidence_in_text": true,
+      "numbers_ok": true,
+      "subject_ok": true,
+      "object_ok": true,
+      "supported_by_quote": true,
+      "grounded": true
+    },
+    "checks_v1": {
+      "evidence_in_text": true,
+      "subject_in_text": true,
+      "object_in_text": true,
+      "linked_to_evidence": true,
+      "grounded": true
+    },
+    "attribution_ok": true,
+    "stance": "narrative"
+  }
+]
